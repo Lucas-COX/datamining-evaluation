@@ -1,0 +1,7 @@
+# Notebook
+matplotlib
+pandas
+seaborn
+
+# CLI
+nbconvert
