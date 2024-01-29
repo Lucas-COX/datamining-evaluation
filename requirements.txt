@@ -1,7 +1,9 @@
 # Notebook
 matplotlib
 pandas
+python-dotenv
 seaborn
+spotipy
 
 # CLI
 nbconvert
