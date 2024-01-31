@@ -1,9 +1,12 @@
 # Notebook
+jupyter
+lyricsgenius
 matplotlib
 pandas
+pyarrow
 python-dotenv
 seaborn
-spotipy
+wordcloud
 
 # CLI
 nbconvert
