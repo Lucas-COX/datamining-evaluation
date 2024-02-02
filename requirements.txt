@@ -1,10 +1,12 @@
 # Notebook
+folium
 jupyter
 lyricsgenius
 matplotlib
 pandas
 pyarrow
 python-dotenv
+scikit-learn
 seaborn
 wordcloud
 
